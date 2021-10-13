@@ -2,8 +2,8 @@
 public class Main {
 	public static void main(String[] args) {
 
-		int n1 = 1;
-	    int n2 = 1;
+		int n1 = 2;
+	    int n2 = 4;
 	    
 	    System.out.println("Fibonacci: ");
 	    System.out.print("1 ");
