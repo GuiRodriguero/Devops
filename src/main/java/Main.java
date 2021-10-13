@@ -9,7 +9,7 @@ public class Main {
 	    System.out.print("1 ");
 	    System.out.print("1 ");
 
-	    int num = 8;
+	    int num = 7;
 	    while (num > 0) {
 	        System.out.print((n1+n2) + " ");
 	        int n3 = n1+n2;
